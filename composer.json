@@ -1,5 +1,5 @@
 {
-  "name": "adamstipak/nette-rest-route",
+  "name": "k7/nette-rest-route",
   "description": "Rest route for Nette Framework",
   "keywords": ["nette", "routing"],
   "license": "MIT",
@@ -14,10 +14,10 @@
     "psr-4": {"AdamStipak\\": "src/"}
   },
   "require": {
-    "php": "^5.6|^7.0",
-    "nette/application": "~2.3",
-    "nette/http": "~2.3",
-    "nette/utils": "~2.3"
+    "php": ">=5.4.0",
+    "nette/application": "~2.2",
+    "nette/http": "~2.2",
+    "nette/utils": "~2.2"
   },
   "require-dev": {
     "phpunit/phpunit": "^5.2",
